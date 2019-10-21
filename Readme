@@ -1,0 +1,6 @@
+数据库迁移同步
+python db.py db init
+
+python db.py db migrate
+
+python db.py db upgrade
